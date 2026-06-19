@@ -1,0 +1,10 @@
+# Honwu Portal Web MVP - Trilingual
+
+使用方式：
+1. 解壓縮 ZIP。
+2. 直接打開 `index.html`。
+3. 右上角可切換：繁中 / Tiếng Việt / English。
+4. 角色可切換：系統管理員、人資、業務、財務、採購、一般員工。
+5. 新增、編輯、刪除資料會暫存在瀏覽器 localStorage。
+
+注意：這是前端 MVP 靜態版，尚未連接真實資料庫與正式帳號密碼系統。
